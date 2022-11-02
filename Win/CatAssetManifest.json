@@ -1,6 +1,6 @@
 {
     "GameVersion": "Build",
-    "ManifestVersion": 9,
+    "ManifestVersion": 12,
     "Bundles": [
         {
             "Directory": "BundleRes",
@@ -132,7 +132,7 @@
                 },
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_03/TimelineData.asset",
-                    "Length": 71846,
+                    "Length": 69419,
                     "Dependencies": []
                 }
             ]
@@ -511,8 +511,8 @@
             "Group": "MusicGame",
             "IsRaw": false,
             "IsScene": false,
-            "Length": 12561549,
-            "MD5": "00a98cd75b97f45e420cde6b7e1ef3f0",
+            "Length": 12630907,
+            "MD5": "404ac3116d57eff3f2441ef1ba24a61e",
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
             "Assets": [
@@ -579,7 +579,7 @@
                 },
                 {
                     "Name": "Assets/TextMeshPro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset",
-                    "Length": 8145,
+                    "Length": 2117174,
                     "Dependencies": [
                         "Assets/TextMeshPro/Shaders/TMP_SDF.shader",
                         "Assets/TextMeshPro/Examples & Extras/Fonts/Oswald-Bold.ttf"

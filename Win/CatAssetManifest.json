@@ -1,6 +1,6 @@
 {
     "GameVersion": "Build",
-    "ManifestVersion": 5,
+    "ManifestVersion": 6,
     "Platform": "StandaloneWindows64",
     "Bundles": [
         {
@@ -849,8 +849,8 @@
             "Group": "Base",
             "IsRaw": false,
             "IsScene": true,
-            "Length": 15816,
-            "MD5": "2a5b17bc1a97986c478abb45c0f32208",
+            "Length": 15848,
+            "MD5": "6652e7951afb48dffeaf21481640ecf6",
             "IsAppendMD5": true,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": true,

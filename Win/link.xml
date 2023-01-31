@@ -20,14 +20,14 @@
     <type fullname="CyanStars.Gameplay.MusicGame.ViewObject" preserve="all" />
     <type fullname="UnloadAssetTest" preserve="all" />
     <type fullname="CyanStars.Gameplay.MusicGame.CameraTrackData" preserve="nothing" serialized="true" />
-    <type fullname="CyanStars.Gameplay.MusicGame.CameraTrackData/KeyFrame" preserve="nothing" serialized="true" />
     <type fullname="CyanStars.Gameplay.MusicGame.EffectTrackData" preserve="nothing" serialized="true" />
-    <type fullname="CyanStars.Gameplay.MusicGame.EffectTrackData/KeyFrame" preserve="nothing" serialized="true" />
     <type fullname="CyanStars.Gameplay.MusicGame.MapTimelineData" preserve="nothing" serialized="true" />
     <type fullname="CyanStars.Gameplay.MusicGame.NoteData" preserve="nothing" serialized="true" />
     <type fullname="CyanStars.Gameplay.MusicGame.NoteLayerData" preserve="nothing" serialized="true" />
     <type fullname="CyanStars.Gameplay.MusicGame.NoteTimeAxisData" preserve="nothing" serialized="true" />
     <type fullname="CyanStars.Gameplay.MusicGame.NoteTrackData" preserve="nothing" serialized="true" />
+    <type fullname="CyanStars.Gameplay.MusicGame.CameraTrackData/KeyFrame" preserve="nothing" serialized="true" />
+    <type fullname="CyanStars.Gameplay.MusicGame.EffectTrackData/KeyFrame" preserve="nothing" serialized="true" />
     <type fullname="CyanStars.Gameplay.MusicGame.InputMapData" preserve="nothing" serialized="true" />
     <type fullname="CyanStars.Gameplay.MusicGame.InputMapData/Item" preserve="nothing" serialized="true" />
     <type fullname="CyanStars.Gameplay.MusicGame.MapManifest" preserve="nothing" serialized="true" />
@@ -106,7 +106,9 @@
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.EventSystems.PhysicsRaycaster" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.RawImage" preserve="all" />
@@ -125,6 +127,7 @@
     <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.VFXModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -136,7 +139,7 @@
     <type fullname="UnityEngine.Video.VideoClip" preserve="all" />
     <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
   </assembly>
-  <assembly fullname="UnityEngine.TextCoreModule">
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
     <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />

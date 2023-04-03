@@ -1,713 +1,547 @@
 {
-    "GameVersion": "Build",
     "ManifestVersion": 1,
     "Platform": "StandaloneWindows64",
     "Bundles": [
         {
             "Directory": "BundleRes",
-            "DirectoryNodeID": 0,
             "BundleName": "Covers.bundle",
-            "BundleNameNodeID": 0,
             "Group": "Base",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
-            "Length": 6530605,
-            "MD5": "c3e192beaf8c7cc9aceba15c62ae09c8",
+            "Length": 6530541,
+            "MD5": "3ed0f2707753e8c0e806aacb10af98cb",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 2,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Covers/Music_01/Bg.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/BundleRes/Covers/Music_01/ClipCover.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/BundleRes/Covers/Music_01/Cover.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/BundleRes/Covers/Music_03/Bg.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/BundleRes/Covers/Music_03/ClipCover.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/BundleRes/Covers/Music_03/Cover.mp4",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "BundleRes/MusicGameMap",
-            "DirectoryNodeID": 0,
             "BundleName": "Map_00.bundle",
-            "BundleNameNodeID": 0,
             "Group": "MusicGame",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
             "Length": 2869,
-            "MD5": "a6fe567f718f0540f05318775b514813",
+            "MD5": "6e70131c5ad3c3fcc8946d3ef87112fd",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 3,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_00/TimelineData.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "BundleRes/MusicGameMap",
-            "DirectoryNodeID": 0,
             "BundleName": "Map_01.bundle",
-            "BundleNameNodeID": 0,
             "Group": "MusicGame",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
             "Length": 4800939,
-            "MD5": "87839f77fe543fe7e021b42de0b4b796",
+            "MD5": "76a7c100805175abc60f71ae4d84dd46",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 3,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_01/LrcText.txt",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_01/Music.ogg",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_01/TimelineData.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "BundleRes/MusicGameMap",
-            "DirectoryNodeID": 0,
             "BundleName": "Map_02.bundle",
-            "BundleNameNodeID": 0,
             "Group": "MusicGame",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
             "Length": 3005926,
-            "MD5": "dafd53772d30a74e914902ad84c5778a",
+            "MD5": "83cf7ed6433712c22d81bdb13cffd53d",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 3,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_02/Music.ogg",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_02/TimelineData.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "BundleRes/MusicGameMap",
-            "DirectoryNodeID": 0,
             "BundleName": "Map_03.bundle",
-            "BundleNameNodeID": 0,
             "Group": "MusicGame",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
             "Length": 3255804,
-            "MD5": "e5e244770f68073296239fea762bde54",
+            "MD5": "c8754d3b948b3e46c249c31f4e867f58",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 3,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_03/Music.ogg",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_03/TimelineData.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "BundleRes/Prefabs",
-            "DirectoryNodeID": 0,
             "BundleName": "Effect.bundle",
-            "BundleNameNodeID": 0,
             "Group": "Base",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
-            "Length": 6530605,
-            "MD5": "8c80d15ce1b07dabe1273b56f931976d",
+            "Length": 861819,
+            "MD5": "0b38ab192aec0b870d66ca3985ad5b5e",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 2,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/BreakHitEffect.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/Particle/Particle 6.mat",
                         "Assets/Materials/Particle/Particle 2.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/ClickHitEffect.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/Particle/Particle 3.mat",
                         "Assets/Materials/Particle/Particle 2.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/DragHitEffect.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/Particle/Particle 5.mat",
                         "Assets/Materials/Particle/Particle 2.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/HoldHitEffect.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/Particle/Particle 4.mat",
                         "Assets/BundleRes/Prefabs/Effect/NewHoldEffect.prefab",
                         "Assets/Materials/Particle/Particle 2.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/NewHoldEffect.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/PlayScene/GreenNote.mat",
                         "Assets/Materials/HoldMat.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/ParticleSea.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/TapHitEffect.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/Particle/Particle 1.mat",
                         "Assets/Materials/Particle/Particle 2.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/BlockEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/BlockVFX.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/BlockRainEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/BlockRainVFX.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/CircleFireEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/CircleFireVFX.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/Fiery_trees_and_silver_flowers_Effect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/UnnamedVFX1.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/FireworkEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/FireworkVFX.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/GalaxyEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/UnnameedVFX2.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/LineEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/LineVFX.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/MeteoriteEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/UnnamedVFX3.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/ParticleGushingEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/ParticleGushingVFX.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/SpaceJumpEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/SpaceJumpVFX.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/TriangleEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/UnnamedVFX5.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/VEG/VortexEffect(VEG).prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/UnnamedVFX4.vfx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/Particle/Particle 1.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/Particle/Particle 2.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/Particle/Particle 3.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/Particle/Particle 4.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/Particle/Particle 5.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/Particle/Particle 6.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/PlayScene/GreenNote.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/TextMeshPro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/VEG/BlockVFX.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/三角形.png"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/VEG/CircleFireVFX.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/VEG/FireworkVFX.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/VEG/ParticleGushingVFX.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/漩涡速度矢量.asset",
                         "Packages/com.unity.visualeffectgraph/Textures/vectorfield.asset"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/VEG/SpaceJumpVFX.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/VEG/UnnamedVFX1.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/VEG/UnnamedVFX3.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.visualeffectgraph/Textures/SimpleSmoke.tga"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/VEG/UnnamedVFX4.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/漩涡速度矢量.asset"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/VEG/UnnamedVFX5.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/VEG/三角形.png"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/VEG/UnnameedVFX2.vfx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/TextMeshPro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/VEG/三角形.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/VEG/漩涡速度矢量.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Packages/com.unity.visualeffectgraph/Textures/SimpleSmoke.tga",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Packages/com.unity.visualeffectgraph/Textures/vectorfield.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "BundleRes/Prefabs",
-            "DirectoryNodeID": 0,
             "BundleName": "MapSelectUI.bundle",
-            "BundleNameNodeID": 0,
             "Group": "Base",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
-            "Length": 6530605,
-            "MD5": "8bf5f63723fa48ae225af621d08fa606",
+            "Length": 418863,
+            "MD5": "29d45f39b0ee50d0661cfa1092f1a237",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 2,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Prefabs/MapSelectUI/MapSelectPanel.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Sprites/MapSelectPanel/Mask.png",
                         "Assets/Sprites/MapSelectPanel/Sp/G3.png",
                         "Assets/Sprites/MapSelectPanel/Sp/G0.png",
-                        "Assets/BundleRes/UnloadTest/SO_Test.asset",
                         "Assets/Sprites/Bg-16px.png",
-                        "Assets/BundleRes/UnloadTest/Sprite_Test.jpg",
-                        "Assets/BundleRes/UnloadTest/Shader_Test.shader",
-                        "Assets/BundleRes/UnloadTest/Tex_Test.jpg",
-                        "Assets/BundleRes/UnloadTest/Mat_Test.mat",
                         "Assets/Sprites/MapSelectPanel/Sp/G1.png",
                         "Assets/Font/Font_LXGWWenKaiMono-Bold.asset",
-                        "Assets/BundleRes/UnloadTest/AudioClip_Test.ogg",
                         "Assets/Sprites/MapSelectPanel/Sp/G2.png",
                         "Assets/RenderTextures/CoverVideoRT.renderTexture",
-                        "Assets/BundleRes/UnloadTest/Font_Test.ttf",
-                        "Assets/BundleRes/UnloadTest/VideoClip_Test.mp4",
                         "Assets/Sprites/Fream-16px.png"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Font/Font_LXGWWenKaiMono-Bold.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/TextMeshPro/Shaders/TMP_SDF.shader",
                         "Assets/Font/LXGWWenKaiMono-Bold.ttf"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/RenderTextures/CoverVideoRT.renderTexture",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/MapSelectPanel/Mask.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/MapSelectPanel/Sp/G0.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/MapSelectPanel/Sp/G1.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/MapSelectPanel/Sp/G2.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/MapSelectPanel/Sp/G3.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "BundleRes/Prefabs",
-            "DirectoryNodeID": 0,
             "BundleName": "MusicGameUI.bundle",
-            "BundleNameNodeID": 0,
             "Group": "Base",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
-            "Length": 12561531,
-            "MD5": "1998342cc47098e4d2841893c71e8c20",
+            "Length": 12631447,
+            "MD5": "60b90afe879e53c63b039ab9296f3120",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 2,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Prefabs/MusicGameUI/MusicGame3DUIPanel.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/TextMeshPro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset",
                         "Assets/Font/Font_FZKTJW.asset"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/MusicGameUI/MusicGameMainPanel.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Sprites/Bg-16px.png",
@@ -715,153 +549,120 @@
                         "Assets/TextMeshPro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset",
                         "Assets/Font/Font_FZKTJW.asset",
                         "Assets/Sprites/Fream-16px.png"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/MusicGameUI/MusicGamePausePanel.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Sprites/GrayFrame.png",
                         "Assets/Font/LXGWWenKaiMono-Bold.ttf",
                         "Assets/Sprites/PauseButton.png"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Font/Font_FZKTJW.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/TextMeshPro/Shaders/TMP_SDF.shader",
                         "Assets/Font/FZKTJW.TTF"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Font/FZKTJW.TTF",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/GrayFrame.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/PauseButton.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/TextMeshPro/Examples & Extras/Fonts/Bangers.ttf",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [
-                        "Assets/BundleRes/UnloadTest/Font_Test.ttf"
-                    ],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/TextMeshPro/Examples & Extras/Fonts/Oswald-Bold.ttf",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/TextMeshPro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/TextMeshPro/Shaders/TMP_SDF.shader",
                         "Assets/TextMeshPro/Examples & Extras/Fonts/Oswald-Bold.ttf"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 }
             ]
         },
         {
             "Directory": "BundleRes/Prefabs",
-            "DirectoryNodeID": 0,
             "BundleName": "Notes.bundle",
-            "BundleNameNodeID": 0,
             "Group": "Base",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
-            "Length": 12561531,
-            "MD5": "b3d08c91290ab07c42c999a6b65dc5aa",
+            "Length": 81683,
+            "MD5": "e5801a1e3d2a2c66ee0763348cd5ef56",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 2,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Prefabs/Notes/Break.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Model/v1.1/MI_Note_Break.mat",
                         "Assets/Model/NoteBreak0.1.fbx",
                         "Assets/Materials/PlayScene/PinkNote.mat",
                         "Assets/Model/v1.1/M_Note_Break.fbx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Notes/Click.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/ClickMat.mat",
                         "Assets/Model/v1.1/MI_Note_Click.mat",
                         "Assets/Model/v1.1/M_Note_Click.fbx",
                         "Assets/Model/NoteClick0.1.fbx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Notes/Drag.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/DragMat.mat",
                         "Assets/Model/NoteDrag0.1.fbx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Notes/Hold.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/HoldMat.mat",
                         "Assets/Model/NoteHold0.3.fbx",
                         "Assets/Shaders/NoteEffect_HoldNote.mat",
                         "Assets/Model/v1.1/M_Note_Hold.fbx"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Notes/Key.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/PlayScene/KeyDown.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/BundleRes/Prefabs/Notes/Tap.prefab",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Model/v1.1/MI_Note_Key.mat",
@@ -870,289 +671,204 @@
                         "Assets/Materials/HoldMaterial.001.mat",
                         "Assets/Model/NoteTap0.1.fbx",
                         "Assets/BundleRes/Prefabs/Effect/TapHitEffect.prefab"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/ClickMat.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/DragMat.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/HoldMaterial.001.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/PlayScene/PinkNote.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/TapMat.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/NoteBreak0.1.fbx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/NoteClick0.1.fbx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/NoteDrag0.1.fbx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/NoteHold0.3.fbx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/NoteTap0.1.fbx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/v1.1/M_Note_Break.fbx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/v1.1/M_Note_Click.fbx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/v1.1/M_Note_Hold.fbx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/v1.1/M_Note_Tap.fbx",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/v1.1/MI_Note_Break.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Model/v1.1/T_Note_Break_Color.png",
                         "Assets/Model/v1.1/T_Note_Break_Mask.png",
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/v1.1/MI_Note_Click.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Model/v1.1/T_Note_Click_Color.png",
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/v1.1/MI_Note_Key.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Model/v1.1/T_Note_Tap_Color.png",
                         "Assets/Model/v1.1/T_Note_Tap_Mask.png",
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Model/v1.1/T_Note_Break_Color.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Model/v1.1/T_Note_Break_Mask.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Model/v1.1/T_Note_Click_Color.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Model/v1.1/T_Note_Hold_Color.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Model/v1.1/T_Note_Hold_Mask.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Model/v1.1/T_Note_Tap_Color.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Model/v1.1/T_Note_Tap_Mask.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Shaders/HoldNote.shader",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Shaders/NoteEffect_HoldNote.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Shaders/HoldNote.shader",
                         "Assets/Model/v1.1/T_Note_Hold_Color.png",
                         "Assets/Model/v1.1/T_Note_Hold_Mask.png"
-                    ],
-                    "DependencyIDList": []
-                }
-            ]
-        },
-        {
-            "Directory": "BundleRes/RawAssets",
-            "DirectoryNodeID": 0,
-            "BundleName": "RawText.txt",
-            "BundleNameNodeID": 0,
-            "Group": "Base",
-            "GroupNodeID": 0,
-            "IsRaw": true,
-            "IsScene": false,
-            "Length": 64,
-            "MD5": "6ec3dab74ed651d064e11141b15b20cb",
-            "IsAppendMD5": false,
-            "Hash": "",
-            "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 3,
-            "Assets": [
-                {
-                    "Name": "Assets/BundleRes/RawAssets/RawText.txt",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    ]
                 }
             ]
         },
         {
             "Directory": "BundleRes",
-            "DirectoryNodeID": 0,
             "BundleName": "Scenes.bundle",
-            "BundleNameNodeID": 0,
             "Group": "MusicGame",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": true,
-            "Length": 12561531,
-            "MD5": "a011d999fea9afc4fedeb79b85b17680",
+            "Length": 15665,
+            "MD5": "f65ad7f245fd23a03d3615fd5330c715",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": true,
-            "EncryptOption": 2,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Scenes/Dark.unity",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Materials/Wall.mat",
-                        "Assets/BundleRes/UnloadTest/Sprite_Test.jpg",
                         "Assets/BundleRes/Prefabs/Effect/VEG/LineEffect(VEG).prefab",
                         "Assets/Audio/PromptTone/ns_ka.ogg",
                         "Assets/Scenes/Dark/Global Volume Profile.asset",
-                        "Assets/BundleRes/UnloadTest/Tex_Test.jpg",
-                        "Assets/BundleRes/UnloadTest/Mat_Test.mat",
                         "Assets/Materials/Light.mat",
                         "Assets/BundleRes/Prefabs/Notes/Key.prefab",
                         "Assets/Audio/PromptTone/ns_ding.ogg",
@@ -1160,261 +876,196 @@
                         "Assets/Materials/Plane.mat",
                         "Assets/Materials/Skyboxs/DarkSkybox.mat",
                         "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
-                        "Assets/BundleRes/Prefabs/Effect/VEG/BlockRainEffect(VEG).prefab",
-                        "Assets/Sprites/icon.png"
-                    ],
-                    "DependencyIDList": []
+                        "Assets/BundleRes/Prefabs/Effect/VEG/BlockRainEffect(VEG).prefab"
+                    ]
                 }
             ]
         },
         {
             "Directory": "BundleRes",
-            "DirectoryNodeID": 0,
             "BundleName": "Scenes_res.bundle",
-            "BundleNameNodeID": 0,
             "Group": "MusicGame",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
-            "Length": 12561531,
-            "MD5": "036c28f058cea55a0071a988b21e3af3",
+            "Length": 72894,
+            "MD5": "d50bcb2e2fca56df56fd5f6b486e1d00",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": true,
-            "EncryptOption": 2,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/Audio/PromptTone/ns_ding.ogg",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Audio/PromptTone/ns_ka.ogg",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Materials/Black.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/Light.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/Plane.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Sprites/Plane-32px.png",
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Materials/Skyboxs/DarkSkybox.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Materials/Wall.mat",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Scenes/Dark/Global Volume Profile.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/Sprites/icon.png",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/Plane-32px.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/Volume.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/VolumeProfileAsset.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "BundleRes/ScriptObjects",
-            "DirectoryNodeID": 0,
             "BundleName": "InputMap.bundle",
-            "BundleNameNodeID": 0,
             "Group": "MusicGame",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
-            "Length": 12561531,
-            "MD5": "01587998f0cdc674e6a3b48063776cf8",
+            "Length": 2236,
+            "MD5": "0a6837f4e7eb0ea69a99ecf350e77975",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 2,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/ScriptObjects/InputMap/InputMapData.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "BundleRes/ScriptObjects",
-            "DirectoryNodeID": 0,
             "BundleName": "InternalMap.bundle",
-            "BundleNameNodeID": 0,
             "Group": "Base",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
             "Length": 2280,
-            "MD5": "bab7e5c8a36581b73b9c1b1155224c46",
+            "MD5": "82dabc6253f6b603e9825ce1d220ac48",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 3,
+            "EncryptOption": 1,
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/ScriptObjects/InternalMap/InternalMapList.asset",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                }
-            ]
-        },
-        {
-            "Directory": "BundleRes",
-            "DirectoryNodeID": 0,
-            "BundleName": "UnloadTest.bundle",
-            "BundleNameNodeID": 0,
-            "Group": "Base",
-            "GroupNodeID": 0,
-            "IsRaw": false,
-            "IsScene": false,
-            "Length": 9374807,
-            "MD5": "d12d406964537f62080fa0cc5686c2a8",
-            "IsAppendMD5": false,
-            "Hash": "",
-            "IsDependencyBuiltInShaderBundle": false,
-            "EncryptOption": 3,
-            "Assets": [
-                {
-                    "Name": "Assets/BundleRes/UnloadTest/AudioClip_Test.ogg",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/BundleRes/UnloadTest/Font_Test.ttf",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/BundleRes/UnloadTest/Mat_Test.mat",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [
-                        "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/BundleRes/UnloadTest/Shader_Test.shader",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/BundleRes/UnloadTest/SO_Test.asset",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/BundleRes/UnloadTest/Sprite_Test.jpg",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/BundleRes/UnloadTest/Tex_Test.jpg",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/BundleRes/UnloadTest/VideoClip_Test.mp4",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "",
-            "DirectoryNodeID": 0,
             "BundleName": "Redundancy_0.bundle",
-            "BundleNameNodeID": 0,
-            "Group": "Base",
-            "GroupNodeID": 0,
+            "Group": "MusicGame",
             "IsRaw": false,
             "IsScene": false,
-            "Length": 36726873,
-            "MD5": "4c3c5f66aba9b3a4b079b8a1990c0554",
+            "Length": 53837,
+            "MD5": "a86773567f992e6fc33427de08888d2c",
+            "IsAppendMD5": false,
+            "Hash": "",
+            "IsDependencyBuiltInShaderBundle": false,
+            "EncryptOption": 1,
+            "Assets": [
+                {
+                    "Name": "Assets/Materials/HoldMat.mat",
+                    "IsAtlasPackable": false,
+                    "Dependencies": [
+                        "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
+                    ]
+                },
+                {
+                    "Name": "Assets/Materials/PlayScene/KeyDown.mat",
+                    "IsAtlasPackable": false,
+                    "Dependencies": [
+                        "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
+                    ]
+                },
+                {
+                    "Name": "Assets/TextMeshPro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd",
+                    "IsAtlasPackable": false,
+                    "Dependencies": []
+                },
+                {
+                    "Name": "Assets/VEG/BlockRainVFX.vfx",
+                    "IsAtlasPackable": false,
+                    "Dependencies": [
+                        "Assets/TextMeshPro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd"
+                    ]
+                },
+                {
+                    "Name": "Assets/VEG/LineVFX.vfx",
+                    "IsAtlasPackable": false,
+                    "Dependencies": []
+                },
+                {
+                    "Name": "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
+                    "IsAtlasPackable": false,
+                    "Dependencies": [
+                        "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
+                    ]
+                },
+                {
+                    "Name": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                    "IsAtlasPackable": false,
+                    "Dependencies": []
+                }
+            ]
+        },
+        {
+            "Directory": "",
+            "BundleName": "Redundancy_1.bundle",
+            "Group": "Base",
+            "IsRaw": false,
+            "IsScene": false,
+            "Length": 36677644,
+            "MD5": "9810bbafb2a0be47be06941f59828e08",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
@@ -1422,135 +1073,59 @@
             "Assets": [
                 {
                     "Name": "Assets/Font/LXGWWenKaiMono-Bold.ttf",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Font/LXGWWenKaiMono-Regular.ttf",
                         "Assets/Font/LXGWWenKaiMono-Light.ttf"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Font/LXGWWenKaiMono-Light.ttf",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
                     "Dependencies": [
                         "Assets/Font/LXGWWenKaiMono-Regular.ttf"
-                    ],
-                    "DependencyIDList": []
+                    ]
                 },
                 {
                     "Name": "Assets/Font/LXGWWenKaiMono-Regular.ttf",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/Materials/HoldMat.mat",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [
-                        "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/Materials/PlayScene/KeyDown.mat",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [
-                        "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/Bg-16px.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/Sprites/Fream-16px.png",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/TextMeshPro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Assets/TextMeshPro/Shaders/TMP_SDF.shader",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/VEG/BlockRainVFX.vfx",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [
-                        "Assets/TextMeshPro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd"
-                    ],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Assets/VEG/LineVFX.vfx",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [
-                        "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
-                    ],
-                    "DependencyIDList": []
-                },
-                {
-                    "Name": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
-                    "NameNodeID": 0,
-                    "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 },
                 {
                     "Name": "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
-                    "NameNodeID": 0,
                     "IsAtlasPackable": false,
-                    "Dependencies": [],
-                    "DependencyIDList": []
+                    "Dependencies": []
                 }
             ]
         },
         {
             "Directory": "",
-            "DirectoryNodeID": 0,
             "BundleName": "UnityBuiltInShaders.bundle",
-            "BundleNameNodeID": 0,
             "Group": "Base",
-            "GroupNodeID": 0,
             "IsRaw": false,
             "IsScene": false,
-            "Length": 48258,
-            "MD5": "b18717a8dc06afc4eff8b8cc421ee5b5",
+            "Length": 48294,
+            "MD5": "7dc240835c47f9de0bdfa3dce3f0913d",
             "IsAppendMD5": false,
             "Hash": "",
             "IsDependencyBuiltInShaderBundle": false,
